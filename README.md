@@ -1,5 +1,5 @@
 # Título
 ## Introducción 
-`Objetivo del  proyecto`<br
-**Apartado 1**<br
-*Apartado 2*<br
+`Objetivo del  proyecto`
+**Apartado 1**
+*Apartado 2*
